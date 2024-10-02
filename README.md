@@ -1,4 +1,4 @@
-👋 Hi, I’m @tawhidahamed. I'm a student at Lab University of Applied Sciences. I'm currently learning Python. 
+👋 Hi, I'm Tawhid Ahamed, a student at Lab University of Applied Sciences. Currently, I'm focused on learning Python while improving my HTML and CSS skills. I'm passionate about web development and excited to grow my programming knowledge.
 
 
 <!---
